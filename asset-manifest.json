@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prak4_twl_2100016086/static/css/main.44f8b8b5.css",
+    "main.js": "/prak4_twl_2100016086/static/js/main.1418863c.js",
+    "static/js/787.f79cc553.chunk.js": "/prak4_twl_2100016086/static/js/787.f79cc553.chunk.js",
+    "index.html": "/prak4_twl_2100016086/index.html",
+    "main.44f8b8b5.css.map": "/prak4_twl_2100016086/static/css/main.44f8b8b5.css.map",
+    "main.1418863c.js.map": "/prak4_twl_2100016086/static/js/main.1418863c.js.map",
+    "787.f79cc553.chunk.js.map": "/prak4_twl_2100016086/static/js/787.f79cc553.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.1418863c.js"
+  ]
+}
